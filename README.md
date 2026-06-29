@@ -272,7 +272,7 @@ Pull Request ❤️
 ## 👨‍💻 Author
 
 # Mukul Kumar
-Project-Spelling-correctio-using-jaccard-similarity
+Project-Spelling-correction-using-jaccard-similarity
 
 
 ### Thanks for Visiting ❤️
