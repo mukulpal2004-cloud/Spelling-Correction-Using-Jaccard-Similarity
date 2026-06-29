@@ -270,9 +270,12 @@ Pull Request ❤️
 <div align="center">
 
 ## 👨‍💻 Author
+👨‍💻 Mukul Kumar
+Data Analytics Enthusiast
 
-# Mukul Kumar
-Project-Spelling-correction-using-jaccard-similarity
+📞 Phone: 9315005376 | 📧 Email: mukulpal2004@gmail.com
+
+⭐ If this project helped you, consider giving it a star! ⭐
 
 
 ### Thanks for Visiting ❤️
